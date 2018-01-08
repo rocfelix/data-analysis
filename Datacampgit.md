@@ -1,4 +1,4 @@
-# Basic Workflow
+# 1. Basic Workflow
 repository has two parts:
 1. Files
 2. Directories
