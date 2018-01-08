@@ -12,6 +12,7 @@ Answer: /home/repl/dental/.git
 
 
 $ Git status 
+
 This command is used to check the state of repository. 
 
 Git has a staging area in which it stores files with changes you want to save that haven't been saved yet. 
