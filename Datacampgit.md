@@ -44,6 +44,8 @@ index e713b17..4c0742a 100644
 
 You commit changes to a Git repository in two steps:
 
-Add one or more files to the staging area.
-Commit everything in the staging area.
-To add a file to the staging area, use git add filename.
+1. Add one or more files to the staging area.
+2. Commit everything in the staging area.
+
+
+
