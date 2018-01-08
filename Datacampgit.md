@@ -90,7 +90,7 @@ You have been put in the dental repository. Use git log to display only the chan
 ## How do I write a better log message?
 Writing a one-line log message with git commit -m "message"is good enough for very small changes, but your collaborators (including your future self) will appreciate more information. If you run git commit without -m "message", Git launches a text editor with a template like this:
 
-/# Please enter the commit message for your changes. Lines starting
+\# Please enter the commit message for your changes. Lines starting
 /# with '#' will be ignored, and an empty message aborts the commit.
 /# On branch master
 /# Your branch is up-to-date with 'origin/master'.
