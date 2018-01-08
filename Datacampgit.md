@@ -25,6 +25,7 @@ This command is used to check the state of repository.
 Git has a staging area in which it stores files with changes you want to save that haven't been saved yet. 
 
 $ git diff
+
 ----------------------------------------
 diff --git a/report.txt b/report.txt
 index e713b17..4c0742a 100644
@@ -35,6 +36,7 @@ index e713b17..4c0742a 100644
 +# Seasonal Dental Surgeries (2017) 2017-18
 
  TODO: write executive summary.
+
 --------------------------------------
 
 ## What's the first step in saving changes?
